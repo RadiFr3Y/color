@@ -73,8 +73,4 @@ func main() {
 - BgCyan
 - BgLightCyan
 - Reset
-## Terminal Tested:
-- Command Prompt(CMD)
-- Bash (kali linux)
-- Termux
 
