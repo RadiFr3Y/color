@@ -8,14 +8,14 @@
 Using this package you can color the text of your console environment in Golang language
 
 ## How to Install
-```bash
+```go
 // open the project you want
 go mod init theFr3Y
 go get -u github.com/theFr3Y/color
 
 ```
 ## How to Use
-```
+```go
 package main
 
 import (
